@@ -52,7 +52,7 @@ screen -S grass
 
 
 
-## Instalasi Otomatis Pakai Proxy
+## Instalasi Otomatis DENGAN Proxy
 
 ```bash
 wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main/Grass.sh && chmod +x Grass.sh && ./Grass.sh
@@ -61,8 +61,8 @@ wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main
 
 
 
-## Instalasi Otomatis Tanpa Proxy
-Pastikan pakai Vps server Indonesia
+## Instalasi Otomatis TANPA Proxy
+⚠️Gunakan VPS ASIA / INDONESIA lebih baik!!!⚠️
 
 ```bash
 wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main/grass.sh -O grass.sh
@@ -76,4 +76,4 @@ chmod +x grass.sh
 [Grup Telegram Airdroplegitsss](https://t.me/airdroplegitsss)
 
 
---Jangan lupa klik tombol star di pojok atas
+## Jangan lupa klik Bintang/ STAR di pojok atas
