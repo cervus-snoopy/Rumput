@@ -26,8 +26,24 @@ sudo curl -L https://github.com/docker/compose/releases/latest/download/docker-c
 sudo chmod +x /usr/bin/docker-compose && \
 sudo docker-compose --version
 ```
+```bash
+sudo chmod +x /usr/local/bin/docker-compose
+```
+```bash
+DOCKER_CONFIG=${DOCKER_CONFIG:-$HOME/.docker}
+mkdir -p $DOCKER_CONFIG/cli-plugins
+curl -SL https://github.com/docker/compose/releases/download/v2.20.2/docker-compose-linux-x86_64 -o $DOCKER_CONFIG/cli-plugins/docker-compose
+```
+```bash
+chmod +x $DOCKER_CONFIG/cli-plugins/docker-compose
+```
 
-## ===============≈====PILIH SALAH SATU PROXY ATAU TIDAK===============≈====
+## RUN on screen
+```bash
+screen -S grass
+```
+
+## =============PILIH SALAH SATU 👉 PROXY ATAU TIDAK=============
 
 
 
