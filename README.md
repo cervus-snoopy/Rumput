@@ -26,11 +26,25 @@ sudo curl -L https://github.com/docker/compose/releases/latest/download/docker-c
 sudo chmod +x /usr/bin/docker-compose && \
 sudo docker-compose --version
 ```
+
+## ===============≈====PILIH SALAH SATU PROXY ATAU TIDAK===============≈====
+
+
+
+
+
+
+
+
 ## Instalasi Otomatis Pakai Proxy
 
 ```bash
 wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main/Grass.sh && chmod +x Grass.sh && ./Grass.sh
 ```
+
+
+
+
 ## Instalasi Otomatis Tanpa Proxy
 Pastikan pakai Vps server Indonesia
 
@@ -40,7 +54,9 @@ chmod +x grass.sh
 ./grass.sh
 ```
 
-Join Airdroplegitss for another Drops & Node:  
+
+
+## Join Airdroplegitss for another Drops & Node:  
 [Grup Telegram Airdroplegitsss](https://t.me/airdroplegitsss)
 
 
