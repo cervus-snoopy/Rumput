@@ -68,7 +68,6 @@ wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main
 
 
 ## Instalasi Otomatis TANPA Proxy
-⚠️Gunakan VPS ASIA / INDONESIA lebih baik!!!⚠️
 
 ```bash
 wget https://raw.githubusercontent.com/cervus-snoopy/Airdropnode/refs/heads/main/grass.sh -O grass.sh
