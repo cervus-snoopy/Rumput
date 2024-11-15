@@ -5,9 +5,7 @@
 Sangat di sarankan buat akun baru, daftar dengan email untuk memulai di Grass:  
 [REGISTER GRASS](https://app.getgrass.io/register/?referralCode=K1tdfMhaVTWDnUU)
 
-## GUNAKAN HANYA 1 IP/ 1 VPS
-
-## GUNAKAN VPS INDONESIA (detect = zero 0) 
+## GUNAKAN HANYA 1 Grass ID 👉 1 IP/ 1 VPS 
 
 ## UPDATE dulu VPS ente
 
