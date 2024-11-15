@@ -1,11 +1,15 @@
 # Grass
 
-## Daftar Akun Baru
+## WAJIB Daftar Akun Baru
 
 Sangat di sarankan buat akun baru, daftar dengan email untuk memulai di Grass:  
 [REGISTER GRASS](https://app.getgrass.io/register/?referralCode=K1tdfMhaVTWDnUU)
 
-## UPDATE
+## GUNAKAN HANYA 1 IP/ 1 VPS
+
+## GUNAKAN VPS INDONESIA (detect = zero 0) 
+
+## UPDATE dulu VPS ente
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y
